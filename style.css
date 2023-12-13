@@ -43,7 +43,18 @@
 
 .tall-section {
   height: 1000px; 
-  background-color: rgb(225, 221, 221); 
   margin: 0 15px;
 }
 
+#chicken {
+  background-color: rgb(225, 221, 221); 
+}
+
+#beef {
+  background-color: rgba(117, 121, 184, 0.909); 
+  margin: 10px 0;
+}
+
+#sushi {
+  background-color: rgb(114, 215, 236); 
+}
