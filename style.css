@@ -21,10 +21,6 @@ body {
     float: none;
   }
 
-  .navbar-toggle {
-    display: block;
-  }
-
   .navbar-collapse.collapse {
     display: none!important;
   }
@@ -45,14 +41,6 @@ body {
 
   .navbar-collapse.collapse.in {
     display: block!important;
-  }
-
-  .visible-xs {
-    display: block!important;
-  }
-
-  .hidden-xs {
-    display: none!important;
   }
 
   .dropdown-menu {
